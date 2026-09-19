@@ -4,29 +4,6 @@ An NLP-powered machine learning application that classifies messages as **Spam**
 
 ---
 
-## 🚀 Live Demo
-
-**Deployed Application:**
-[Add your Streamlit URL here]
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](images/home-page.png)
-
-### Spam Detection Example
-
-![Spam Prediction](images/spam-prediction.png)
-
-### Not Spam Detection Example
-
-![Not Spam Prediction](images/not-spam-prediction.png)
-
----
-
 ## 📖 Project Overview
 
 Spam emails and messages are a common problem in digital communication. This project uses **Natural Language Processing (NLP)** techniques to automatically classify messages into:
