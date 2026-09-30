@@ -1,6 +1,6 @@
 # 📧 Spam Email Detection System
 
-An NLP-powered machine learning application that classifies messages as **Spam** or **Not Spam** using **TF-IDF Vectorization** and **Multinomial Naive Bayes**. The project includes a user-friendly Streamlit web interface for real-time predictions.
+An NLP-powered machine learning application that classifies messages as **Spam** or **Not Spam** using **TF-IDF Vectorization** and **Multinomial Naive Bayes**. The project includes a user-friendly Streamlit web interface for real-time predictions that can predict weather the given information is spam or not spam according to the model accuuracy provided.
 
 ---
 
